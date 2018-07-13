@@ -1,7 +1,11 @@
 Nonlinear Control of Quadrotors
 ===============================
 
-Based on the 2018 paper by L'Afflitto et al., *An Introduction to Nonlinear Robust Control for Unmanned Quadrotor Aircraft* \[1\].
+[![nbviewer](https://cdn.rawgit.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/plusk01/nonlinearquad/) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/plusk01/nonlinearquad/master)
+
+
+This repo hosts a collection of Jupyter/IPython notebooks that implement various control schemes for quadrotors.
+
 
 ## References ##
 
